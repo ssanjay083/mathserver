@@ -4,11 +4,10 @@
 To design a website to calculate the power of a lamp filament in an incandescent bulb in the server side.
 
 # FORMULA:
-P = I2R
-P --> Power (in watts)
- I --> Intensity
- R --> Resistance
-
+s = d/t
+s = speed
+d = distance in km
+t = time taken in hours
 # DESIGN STEPS:
 ## Step 1:
 Clone the repository from GitHub.
